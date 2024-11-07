@@ -6,7 +6,10 @@ Web scraped pokemon data from Pokemondb.net and Serebii.net that includes Pokemo
 
 ## 💡 Highlights
 
-TO DO
+- Generation stat creep most noticable amongst fighting type pokemon
+- Generation 3 (including alternate forms) contributed the weakest pokemon given the average stat / amount added ratio. Generation 5 (including alternate forms) is a close runner up
+- Generation 6 (including alternate forms) contributed the strongest pokemon given the average stat / amount added ratio
+- NU competitve tier pokemon had the most noticable stat creep
 
 ## ✏️ Data Wrangling
 
